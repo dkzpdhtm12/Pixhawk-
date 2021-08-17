@@ -7,9 +7,9 @@
 * https://kwangpil.tistory.com/21 사이트를 통해서 기본적인 이론을 공부할 수 있었다.
 
 ## 7월 6일 <Pixhawk 배치>
-<img src = "https://user-images.githubusercontent.com/48241432/129684199-6522dbb7-570b-4bff-a21c-0d0bf493080b.jpg" width="50%" height="height 50%">
+<img src = "https://user-images.githubusercontent.com/48241432/129684199-6522dbb7-570b-4bff-a21c-0d0bf493080b.jpg" width="30%" height="height 30%">
 * 첫 Pixhawk 연결, 프로그램은 QGC(QGroundControl)을 이용했다. 펌웨어는 PX4로 세팅
 
 ## 7월 7일 <Telemetry Redio 도입>
-<img src = "https://user-images.githubusercontent.com/48241432/129687626-d9aeefb2-3d57-437a-9782-8042ecaf255d.jpg" width="48%" height="height 48%">
-<img src = "https://user-images.githubusercontent.com/48241432/129687751-fe62d212-c01c-4d4a-a71d-44a665f2322b.jpg" width="48%" height="height 48%">
+<img src = "https://user-images.githubusercontent.com/48241432/129687626-d9aeefb2-3d57-437a-9782-8042ecaf255d.jpg" width="30%" height="height 30%">
+<img src = "https://user-images.githubusercontent.com/48241432/129687751-fe62d212-c01c-4d4a-a71d-44a665f2322b.jpg" width="30%" height="height 30%">
