@@ -12,3 +12,4 @@
 
 ## 7월 7일 <Telemetry Redio 도입>
 <img src = "https://user-images.githubusercontent.com/48241432/129687626-d9aeefb2-3d57-437a-9782-8042ecaf255d.jpg" width="30%" height="height 30%"> <img src = "https://user-images.githubusercontent.com/48241432/129687751-fe62d212-c01c-4d4a-a71d-44a665f2322b.jpg" width="30%" height="height 30%">
+* Pixhawk의 하나의 장점이라 볼 수 있는 자율주행. 즉, 미션모드가 있다. 이 미션모드를 사용하기 위해서는 위 사진과 같이 Telemetry Redio를 사용하여 원격 제어를 해야하더라
