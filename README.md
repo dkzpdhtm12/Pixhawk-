@@ -44,3 +44,16 @@
 https://user-images.githubusercontent.com/48241432/130570594-19e028ac-47de-44ff-8f55-5dc635f46d2a.mp4
 
 <img src = "https://user-images.githubusercontent.com/48241432/130569458-4a74217d-298d-4ffb-8d57-8ff8b396b187.jpg" width="50%" height="height 50%">
+
+## 7월 22일 <모터제어 성공>
+
+
+https://user-images.githubusercontent.com/48241432/130570993-bc8100a7-475b-4d61-b412-2d97eafaf109.mp4
+
+
+* 드디어 모터 제어에 성공했다. 우여곡절이 많았지만 결국 성공해버렸다.
+* 전문가의 조언에 따라 arming관련 매개변수를 건드려봤다. 그러더니 되더라.
+> * ARDUPILOT 공식 홈페이지를 참고했더니 모터가 움직이기 전에 arming을 해야한다. 해야하는 이유가 크게 두 가지가 있다더라.
+> > 1. 드론이 준비가 되지 않았을 때 모터가 회전하는 것을 방지하기 위해
+> > 2. RC가 구성되고 작동할 준비가 되기전에 움직이는 것을 방지하기 위해
+> * 그렇기에 하지않으면 모터가 안움직인다고... 근데 우리는 RC를 안쓴다! 그래서 생각한 방법. Disarming 하면 된다. (이 방법이 과연 아무 문제없을 거라는 건 보장은 못 하지만 당장은 움직이니깐!)
