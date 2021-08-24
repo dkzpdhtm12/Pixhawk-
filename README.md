@@ -8,6 +8,7 @@
 
 ## 7월 6일 <Pixhawk 배치>
 <img src = "https://user-images.githubusercontent.com/48241432/129684199-6522dbb7-570b-4bff-a21c-0d0bf493080b.jpg" width="30%" height="height 30%">
+
 * 첫 Pixhawk 연결, 프로그램은 QGC(QGroundControl)을 이용했다. 펌웨어는 PX4로 세팅
 
 ## 7월 7일 <Telemetry Redio 도입>
