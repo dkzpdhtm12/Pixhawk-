@@ -18,5 +18,5 @@
 <img src = "https://user-images.githubusercontent.com/48241432/130559863-5d2fd0f7-bfce-45fe-9ff3-a9eba5149ca9.jpg" width="50%" height="height 50%">
 * Pixhawk는 여러 모터를 제어할 수 있다. 대표적으로 BLDC라는 브러쉬리스 모터와 DC, 브러쉬 모터가 있다. 모터가 있다고 바로 돌아가는 것이 아니더라.
 * ESC 모터 변속기는 모터를 제어할 수 있는 센서같은 존재인데, 모터를 제어하는데 필수인 존재다.
-<img src = "https://user-images.githubusercontent.com/48241432/130563157-1a411227-4263-4b25-8d9a-93a13507cbd9.jpg" width="50%" height="height 50%">
+<img src = "https://user-images.githubusercontent.com/48241432/130563251-259b8998-e235-41d6-a005-334b9c2043ea.jpg" width="50%" height="height 50%">
 
