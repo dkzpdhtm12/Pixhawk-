@@ -64,6 +64,6 @@ https://user-images.githubusercontent.com/48241432/130575622-90917348-ceda-4964-
 
 
 * 모터가 성공하자마자 바로 미션모드 테스트를 진행해보았다. 얼마나 감격스러운 순간인가
-https://user-images.githubusercontent.com/48241432/130576182-8c5ee4ca-9ac4-4937-8dd6-ebd9042ca402.jpg
+![KakaoTalk_20210812_154829431_03](https://user-images.githubusercontent.com/48241432/130576182-8c5ee4ca-9ac4-4937-8dd6-ebd9042ca402.jpg)
 
 * 그런데 경로대로 가지 않는다? GPS의 오차 때문일 것으로 추정된다.
