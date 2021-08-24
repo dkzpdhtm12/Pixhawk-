@@ -64,6 +64,20 @@ https://user-images.githubusercontent.com/48241432/130575622-90917348-ceda-4964-
 
 
 * 모터가 성공하자마자 바로 미션모드 테스트를 진행해보았다. 얼마나 감격스러운 순간인가
+* 
 ![KakaoTalk_20210812_154829431_03](https://user-images.githubusercontent.com/48241432/130576182-8c5ee4ca-9ac4-4937-8dd6-ebd9042ca402.jpg)
 
 * 그런데 경로대로 가지 않는다? GPS의 오차 때문일 것으로 추정된다.
+
+## 8월 10일 ~ 19일 <다양한 GPS 테스트 진행>
+몇 십번의 주행 테스트를 진행하면서 GPS 오차 개선 방안을 모색했다. 결국은 장비빨이긴 하지만...
+
+### 일반 GPS
+
+### 듀얼 GPS
+
+### RTK-GPS
+
+### 네트워크 RTK 서비스
+
+### RTK-GPS ROVER and BASE
