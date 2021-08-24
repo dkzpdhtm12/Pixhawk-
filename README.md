@@ -40,3 +40,5 @@
 4. 모터 제어의 실패 원인이 arming에 있을 수 있다. 매개변수 설정을 변경을 시도해봐라
 
 * 이날 기구설계가 완료 되어 바로 부유 테스트를 진행했다.
+https://user-images.githubusercontent.com/48241432/130568751-73abfc9f-de41-4bd5-8977-332ed3e16d6d.mp4
+<img src = "https://user-images.githubusercontent.com/48241432/130569458-4a74217d-298d-4ffb-8d57-8ff8b396b187.jpg" width="50%" height="height 50%">
