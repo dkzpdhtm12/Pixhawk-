@@ -18,5 +18,14 @@
 <img src = "https://user-images.githubusercontent.com/48241432/130559863-5d2fd0f7-bfce-45fe-9ff3-a9eba5149ca9.jpg" width="50%" height="height 50%">
 * Pixhawk는 여러 모터를 제어할 수 있다. 대표적으로 BLDC라는 브러쉬리스 모터와 DC, 브러쉬 모터가 있다. 모터가 있다고 바로 돌아가는 것이 아니더라.
 * ESC 모터 변속기는 모터를 제어할 수 있는 센서같은 존재인데, 모터를 제어하는데 필수인 존재다.
-<img src = "https://user-images.githubusercontent.com/48241432/130563251-259b8998-e235-41d6-a005-334b9c2043ea.jpg" width="50%" height="height 50%">
+<img src = "https://user-images.githubusercontent.com/48241432/130563601-25004bdc-d5bd-416b-8172-c172563405ab.jpg" width="50%" height="height 50%">
+* ESC는 수신기와 배터리 연결부, 모터 연결부로 나뉘어져 있다.(위 사진 수신기 부분 빨간선은 잘라버림) 수신기 부분은 보통 빨강, 흰색, 검정 3선으로 이루어져 있지만 빨강, 주황, 갈색으로도 이루어져있는 경우가 있다.
+* 빨강은 당연 VCC이고 검정 혹은 갈색은 GND, 흰색 및 주황은 PWM이다.
 
+* 하지만 이날 모터제어에는 실패 했다. (이유는 모름)
+
+## 7월 16일 <자율주행선박 견학>
+* 좀 특별한 경험을 했다. Pixhawk를 이용한 자율주행선박의 운용을 옆에서 볼 수 있는 기회가 생겼다.
+* 드론을 제작하는 전문가들을 만나면서 여러 정보를 얻을 수 있었다.
+* 1. 미션모드를 수행하기 위해선 GPS의 성능에 따라 좌우 될 수 있다. 
+* * GNSS 서비스, 듀얼 GPS, RTK GPS 
