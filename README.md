@@ -12,21 +12,19 @@
 
 ## 7월 7일 <Telemetry Redio 도입>
 <img src = "https://user-images.githubusercontent.com/48241432/129687626-d9aeefb2-3d57-437a-9782-8042ecaf255d.jpg" width="30%" height="height 30%"> <img src = "https://user-images.githubusercontent.com/48241432/129687751-fe62d212-c01c-4d4a-a71d-44a665f2322b.jpg" width="30%" height="height 30%">
+
 * Pixhawk의 하나의 장점이라 볼 수 있는 자율주행. 즉, 미션모드가 있다. 이 미션모드를 사용하기 위해서는 위 사진과 같이 Telemetry Redio를 사용하여 원격 제어를 해야하더라
 
 ## 7월 12~14일 <모터 제어(ESC)>
 <img src = "https://user-images.githubusercontent.com/48241432/130559863-5d2fd0f7-bfce-45fe-9ff3-a9eba5149ca9.jpg" width="50%" height="height 50%">
 
 * Pixhawk는 여러 모터를 제어할 수 있다. 대표적으로 BLDC라는 브러쉬리스 모터와 DC, 브러쉬 모터가 있다. 모터가 있다고 바로 돌아가는 것이 아니더라.
-
 * ESC 모터 변속기는 모터를 제어할 수 있는 센서같은 존재인데, 모터를 제어하는데 필수인 존재다.
 
 <img src = "https://user-images.githubusercontent.com/48241432/130563601-25004bdc-d5bd-416b-8172-c172563405ab.jpg" width="50%" height="height 50%">
 
 * ESC는 수신기와 배터리 연결부, 모터 연결부로 나뉘어져 있다.(위 사진 수신기 부분 빨간선은 잘라버림) 수신기 부분은 보통 빨강, 흰색, 검정 3선으로 이루어져 있지만 빨강, 주황, 갈색으로도 이루어져있는 경우가 있다.
-
 * 빨강은 당연 VCC이고 검정 혹은 갈색은 GND, 흰색 및 주황은 PWM이다.
-
 * 하지만 이날 모터제어에는 실패 했다. (이유는 모름)
 
 ## 7월 16일 <자율주행선박 견학, 부유테스트 진행>
