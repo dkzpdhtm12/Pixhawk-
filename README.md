@@ -41,7 +41,9 @@
 
 * 이날 기구설계가 완료 되어 바로 부유 테스트를 진행했다.
 
-https://user-images.githubusercontent.com/48241432/130570594-19e028ac-47de-44ff-8f55-5dc635f46d2a.mp4
+
+https://user-images.githubusercontent.com/48241432/130575667-6b75307e-406e-4c8a-bba5-bf6a060cd910.mp4
+
 
 <img src = "https://user-images.githubusercontent.com/48241432/130569458-4a74217d-298d-4ffb-8d57-8ff8b396b187.jpg" width="50%" height="height 50%">
 
@@ -57,3 +59,9 @@ https://user-images.githubusercontent.com/48241432/130570993-bc8100a7-475b-4d61-
 > > 1. 드론이 준비가 되지 않았을 때 모터가 회전하는 것을 방지하기 위해
 > > 2. RC가 구성되고 작동할 준비가 되기전에 움직이는 것을 방지하기 위해
 > * 그렇기에 하지않으면 모터가 안움직인다고... 근데 우리는 RC를 안쓴다! 그래서 생각한 방법. Disarming 하면 된다. (이 방법이 과연 아무 문제없을 거라는 건 보장은 못 하지만 당장은 움직이니깐!)
+
+## 7월 23일 <자율주행(미션모드)>
+
+https://user-images.githubusercontent.com/48241432/130575622-90917348-ceda-4964-b50b-1c7d55262fdb.mp4
+
+
